@@ -12,3 +12,9 @@ h1 {
 h2 {
     color: #4caf50;
 }
+
+p {
+    width: 60%;
+    margin: auto;
+    margin-bottom: 15px;
+}
