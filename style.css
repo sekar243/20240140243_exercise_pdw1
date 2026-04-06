@@ -18,3 +18,8 @@ p {
     margin: auto;
     margin-bottom: 15px;
 }
+
+img {
+    margin: 10px;
+    border-radius: 10px;
+}
